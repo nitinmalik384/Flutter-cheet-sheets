@@ -1,3 +1,10 @@
+/*
+dependency  =>    splashy_bottom_app_bar: ^0.1.0
+
+
+*/
+
+
 import 'package:desktop_todo/bottomCustom.dart';
 import "package:flutter/material.dart";
 import 'package:splashy_bottom_app_bar/splashy_bottom_app_bar.dart';
